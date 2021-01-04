@@ -1,4 +1,5 @@
 @@||pubads.g.doubleclick.net/gampad/ad?$domain=nbc.com
 @@||tpc.googlesyndication.com/pagead/imgad?id=$domain=nbc.com
 @@||tpc.googlesyndication.com
+@@||googleads.g.doubleclick.net
 
