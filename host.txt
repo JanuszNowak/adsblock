@@ -2,4 +2,5 @@
 @@||tpc.googlesyndication.com/pagead/imgad?id=$domain=nbc.com
 @@||tpc.googlesyndication.com
 @@||googleads.g.doubleclick.net
+@@||doubleclick.net
 
